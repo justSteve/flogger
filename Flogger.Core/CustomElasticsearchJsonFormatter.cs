@@ -7,6 +7,7 @@ using System.Reflection;
 using System.Runtime.Serialization;
 using Elasticsearch.Net;
 using Serilog.Events;
+using Serilog.Formatting.Elasticsearch;
 using Serilog.Parsing;
 using Serilog.Sinks.Elasticsearch;
 
